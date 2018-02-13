@@ -1,0 +1,11 @@
+Project: Convert JSON to XML. There is input file attached JSON_in.json as well as expected result file - Output.xml. 
+ The goal is to convert incoming JSON to exact format of Output.xml
+
+there are using following technologies and versions:
+anypoint studio 6.1.2
+jdk 1.8.0
+apache maven 3.3.9
+
+on enrichment step is using:
+javax.xml
+org.w3c.dom
