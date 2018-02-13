@@ -1,0 +1,3 @@
+org\mule\transformers\helloWorldComponent.class
+org\mule\transformers\ShippingInfo.class
+org\mule\transformers\Catalog.class
